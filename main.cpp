@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:cupboard
+//  action 1:keeps stuff in order
+cupboard.keepStuffInOrder();
+//  action 2:looks good
+cupboard.lookGood();
+//  action 3:gives gives storage space
+cupboard.giveStorageSpace();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:midiController
+//  action 1:sends MIDI-Data
+midiController.sendMIDI();
+//  action 2:receives MIDI-Data
+midiController.receiveMIDI();
+//  action 3:shows Information
+midiController.showInformation();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:soap
+//  action 1:smells amazing
+soap.smellAmazing();
+//  action 2:shines blue
+soap.shineBlue();
+//  action 3:does clean
+soap.clean();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:sofa
+//  action 1:does look elegant
+sofa.lookElegant();
+//  action 2:gives place to sit down
+sofa.givePlaceToSit();
+//  action 3:takes up space in room
+sofa.takeSpaceInRoom();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:bedspread
+//  action 1:smells musty
+bedspread.smellsMusty();
+//  action 2:protects from cold 
+bedspread.protectFromCold();
+//  action 3:covers up messy bed
+bedspread.coverUpMessyBed();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:sweets
+//  action 1:taste sweet
+sweets.tasteSweet();
+//  action 2:mess up teeth
+sweets.messUpTeeth();
+//  action 3:make fat
+sweets.makeFat();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:plants
+//  action 1:look nice
+plants.lookNice();
+//  action 2:give positive feelings
+plants.givePositiveFeelings();
+//  action 3:convert carbon to oxygen
+plants.convertCarbonToOxygen();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:cat
+//  action 1:purrs
+cat.purr();
+//  action 2:jumps high
+cat.jumpHigh();
+//  action 3:messes up rooms
+cat.messUpRoom();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:dog
+//  action 1:barks
+dog.bark();
+//  action 2:demands food
+dog.demandFood();
+//  action 3:looks faithful
+dog.lookFaithful();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:dental chewing gum
+//  action 1:tastes good
+dentalChewingGum.tasteGood();
+//  action 2:cleans teeth
+dentalChewingGum.cleanTeeth();
+//  action 3:reduces nervousness 
+dentalChewingGum.reduceNervousness();
 
 
 #endif
