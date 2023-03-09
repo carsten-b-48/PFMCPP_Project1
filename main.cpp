@@ -52,13 +52,13 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:chairs
-//  action 1:the stairs go up
-stairs.up();
-//  action 2:the stairs go down
-stairs.down();
-//  action 3:the stairs directs vertical
-stairs.directVertical();
+//  Noun:cupboard
+//  action 1:keeps stuff in order
+cupboard.keepStuffInOrder();
+//  action 2:looks good
+cupboard.lookGood();
+//  action 3:gives gives storage space
+cupboard.giveStorageSpace();
 
 //  2)
 //  Noun:midiController
@@ -133,13 +133,13 @@ dog.demandFood();
 dog.lookFaithful();
 
 //  10)
-//  Noun:Watch
-//  action 1:shows Time
-watch.showTime();
-//  action 2:sits comfortably
-watch.sitComfortably();
-//  action 3:looks expansive (but isn't)
-watch.lookExpansive();
+//  Noun:dental chewing gum
+//  action 1:tastes good
+dentalChewingGum.tasteGood();
+//  action 2:cleans teeth
+dentalChewingGum.cleanTeeth();
+//  action 3:reduces nervousness 
+dentalChewingGum.reduceNervousness();
 
 
 #endif
